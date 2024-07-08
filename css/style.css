@@ -1,6 +1,7 @@
 /* PALETA DE COLORES GENERAL*/
+/*2024/07/8 cambio color primario*/
 :root{
-   --primario: #ffc107;
+   --primario: #19d319;
    --oscuro: #212121;
    --blanco: #ffffff;
    --secundario: #0097A7;
