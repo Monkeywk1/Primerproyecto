@@ -255,6 +255,22 @@ h1, h2, h3{
 .envia{
    width: 100%;
 }
+/*estilo para el mensaje de error del formulario*/
+.error{
+   background-color: rgb(185,0,0);
+   text-align: center;
+   padding: 1rem;
+   text-transform: uppercase;
+}
+/*estilo para el envio correcto del formulario*/
+.correcto{
+   background-color: rbg(24,185,0);
+   text-align: center;
+   padding: 1rem;
+   color: var(--blanco);
+   text-transform: uppercase;
+}
+/*pie de pagina*/
 .footer{
    text-align: center;
 }
